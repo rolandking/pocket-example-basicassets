@@ -3,11 +3,11 @@
         "magic": "APF_VER_1",
         "metadata": {
             "platform_ids": [
-                "ex_platform"
+                "testcode"
             ],
-            "shortname": "Basic Assets",
+            "shortname": "BasicAssets",
             "description": "APF core example. Displays image and plays audio.",
-            "author": "Example Author",
+            "author": "rols",
             "url": "https://github.com/open-fpga",
             "version": "1.0.0",
             "date_release": "2022-08-23"
